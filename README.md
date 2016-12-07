@@ -40,7 +40,7 @@ __[abandonner, abattre, abri, ... , libre, lien, lier, ... , vue, yeux]__
 Puis on créé la signature vectorielle V0 de ce vocabulaire T0, qui va être un vecteur à N dimensions *(N=T0.length)* ou pour tout k=1..N, V0[k]=1, car chaque mot du dictionnaire apparaît par définition une fois.
 
 Un fois ce vecteur obtenu, on va calculer la signature vectorielle de chaque pdf à partir de ce vocabulaire de référence en regardant si les mots du vocabulaire apparaissent dans le contenu du pdf.
-On obtient alors un vecteur propre à chaque mail qui sera du type [1,0,0,0,1,1,0,...,0,1]
+On obtient alors un vecteur propre à chaque pdf qui sera du type [1,0,0,0,1,1,0,...,0,1]
 
 Autrement dit, __soit Ti le texte du pdf Pi, si V0[j]⊂Pi, alors Vi[j]=1, sinon Vi[j]=0 ou Vi est le vecteur de Pi__
 
