@@ -1,0 +1,25 @@
+{
+  "name": "prm_tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remihb/PRM_TP3.git"
+  },
+  "author": "remihb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remihb/PRM_TP3/issues"
+  },
+  "homepage": "https://github.com/remihb/PRM_TP3#readme",
+  "dependencies": {
+    "compute-cosine-similarity": "^1.0.0",
+    "es6-promise": "^4.0.5",
+    "lodash": "^4.17.2",
+    "pdf-text-extract": "^1.4.1"
+  }
+}
