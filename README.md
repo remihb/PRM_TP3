@@ -87,7 +87,7 @@ Il ne reste plus qu'à concaténer chaque tableau unique ainsi obtenu pour chaqu
 
 Avec cette méthode de calcul, on accelère le tri des pdfs puisque la complexité n'est plus de __N²__. En effet, on compare deux à deux seulement les pdfs possédants la même signature vectorielle, donc qui a priori possède des contenus très semblables.
 
-- __pdfs originaux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 4,184__
+- __pdfs originaux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 4,184__
 - __pdfs sans suplicata : 3,688__
 	- 496 duplicatas
 
