@@ -1,4 +1,9 @@
-# PRM TP3
+# PRM TP3 Ex2
+
+
+Regarder le fichier `TP002_fichier clients V2016_a-dedoublonner.ods`
+
+# PRM TP3 Ex3
 
 ### Prérequis
 - installer Node.js
