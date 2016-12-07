@@ -1,0 +1,10 @@
+You deleted an attachment from this message. The original MIME headers for the attachment were:
+Content-Type: application/pdf;
+	name="=?UTF-8?Q?THERENVA=5fStage_D=c3=a9veloppement_logiciel_2016.pdf?="
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename*0*="utf-8''%54%48%45%52%45%4E%56%41%5F%53%74%61%67%65%20%44%C3%A9";
+	filename*1*="%76%65%6C%6F%70%70%65%6D%65%6E%74%20%6C%6F%67%69%63%69%65%6C";
+	filename*2*="%20%32%30%31%36%2E%70%64%66"
+
+
